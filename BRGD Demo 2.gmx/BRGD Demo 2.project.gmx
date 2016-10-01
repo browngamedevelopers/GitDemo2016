@@ -7,11 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprFloor</sprite>
+    <sprite>sprites\sprEnemy</sprite>
     <sprite>sprites\sprBox</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+    <object>objects\objEnemy</object>
     <object>objects\objFloor</object>
     <object>objects\objBox</object>
   </objects>
