@@ -15,7 +15,7 @@
   <objects name="objects">
     <object>objects\objEnemy</object>
     <object>objects\objFloor</object>
-    <object>objects\objBox</object>
+    <object>objects\objPlayer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
